@@ -13,5 +13,5 @@ The python code was written in Quantum Lab on the [IBM's Quantum Experience webs
 * [Programming tutorial](https://pythonprogramming.net/quantum-computer-programming-tutorial/)
 
 # Future Explorations 
-You might be interested in exploring [Quantum teleportation](https://medium.com/faun/quantum-teleportation-ecc1fed04194)
+You might be interested in exploring [Quantum teleportation](https://medium.com/faun/quantum-teleportation-ecc1fed04194) or learning how to implement an [algorithm](https://www.youtube.com/watch?v=_BHvE_pwF6E&list=PLQVvvaa0QuDc79w6NcGB0pnoJBgaKdfrW&index=3) in Quantum Computing. 
 
